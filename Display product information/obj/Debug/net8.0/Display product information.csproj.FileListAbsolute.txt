@@ -1,0 +1,18 @@
+C:\Users\Mehdi Kh\source\repos\Display product information\Display product information\obj\Debug\net8.0\Display product information.csproj.AssemblyReference.cache
+C:\Users\Mehdi Kh\source\repos\Display product information\Display product information\obj\Debug\net8.0\Display product information.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehdi Kh\source\repos\Display product information\Display product information\obj\Debug\net8.0\Display product information.AssemblyInfoInputs.cache
+C:\Users\Mehdi Kh\source\repos\Display product information\Display product information\obj\Debug\net8.0\Display product information.AssemblyInfo.cs
+C:\Users\Mehdi Kh\source\repos\Display product information\Display product information\obj\Debug\net8.0\Display product information.csproj.CoreCompileInputs.cache
+C:\Users\Mehdi Kh\source\repos\Display product information\Display product information\bin\Debug\net8.0\Display product information.exe
+C:\Users\Mehdi Kh\source\repos\Display product information\Display product information\bin\Debug\net8.0\Display product information.deps.json
+C:\Users\Mehdi Kh\source\repos\Display product information\Display product information\bin\Debug\net8.0\Display product information.runtimeconfig.json
+C:\Users\Mehdi Kh\source\repos\Display product information\Display product information\bin\Debug\net8.0\Display product information.dll
+C:\Users\Mehdi Kh\source\repos\Display product information\Display product information\bin\Debug\net8.0\Display product information.pdb
+C:\Users\Mehdi Kh\source\repos\Display product information\Display product information\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mehdi Kh\source\repos\Display product information\Display product information\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Mehdi Kh\source\repos\Display product information\Display product information\obj\Debug\net8.0\Display .4D444DC6.Up2Date
+C:\Users\Mehdi Kh\source\repos\Display product information\Display product information\obj\Debug\net8.0\Display product information.dll
+C:\Users\Mehdi Kh\source\repos\Display product information\Display product information\obj\Debug\net8.0\refint\Display product information.dll
+C:\Users\Mehdi Kh\source\repos\Display product information\Display product information\obj\Debug\net8.0\Display product information.pdb
+C:\Users\Mehdi Kh\source\repos\Display product information\Display product information\obj\Debug\net8.0\Display product information.genruntimeconfig.cache
+C:\Users\Mehdi Kh\source\repos\Display product information\Display product information\obj\Debug\net8.0\ref\Display product information.dll

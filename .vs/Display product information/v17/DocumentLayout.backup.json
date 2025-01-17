@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mehdi Kh\\source\\repos\\Display product information\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3962B04A-18ED-4533-88F1-39EB280CF6E1}|Display product information\\Display product information.csproj|c:\\users\\mehdi kh\\source\\repos\\display product information\\display product information\\implementations interfaces\\fileproductdatasource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3962B04A-18ED-4533-88F1-39EB280CF6E1}|Display product information\\Display product information.csproj|solutionrelative:display product information\\implementations interfaces\\fileproductdatasource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3962B04A-18ED-4533-88F1-39EB280CF6E1}|Display product information\\Display product information.csproj|c:\\users\\mehdi kh\\source\\repos\\display product information\\display product information\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3962B04A-18ED-4533-88F1-39EB280CF6E1}|Display product information\\Display product information.csproj|solutionrelative:display product information\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 272,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileProductDataSource.cs",
+              "DocumentMoniker": "C:\\Users\\Mehdi Kh\\source\\repos\\Display product information\\Display product information\\implementations interfaces\\FileProductDataSource.cs",
+              "RelativeDocumentMoniker": "Display product information\\implementations interfaces\\FileProductDataSource.cs",
+              "ToolTip": "C:\\Users\\Mehdi Kh\\source\\repos\\Display product information\\Display product information\\implementations interfaces\\FileProductDataSource.cs*",
+              "RelativeToolTip": "Display product information\\implementations interfaces\\FileProductDataSource.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T10:17:15.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mehdi Kh\\source\\repos\\Display product information\\Display product information\\Program.cs",
+              "RelativeDocumentMoniker": "Display product information\\Program.cs",
+              "ToolTip": "C:\\Users\\Mehdi Kh\\source\\repos\\Display product information\\Display product information\\Program.cs",
+              "RelativeToolTip": "Display product information\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T10:16:41.569Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
